@@ -1,1 +1,1 @@
-console.log("Check helper instead!")
+console.log("Check config instead!")
